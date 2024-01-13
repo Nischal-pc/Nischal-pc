@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nischal .
-- 👀 I’m interested in learning coding.
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in learning coding and networking.
+- 🌱 I’m currently learning flutterand aws.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.nischal.shrestha2077@gmail.com
 
