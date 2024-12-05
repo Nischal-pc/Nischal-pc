@@ -1,7 +1,7 @@
 
 
 # 👨‍💻 Networking & Cloud Engineer | Wireless Information Networking | Software Developer  
-📍 Toronto, Ontario   📧 [Your Email Address]   🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [GitHub](https://github.com/your-github-profile)
+📍 Toronto, Ontario   📧 [nischal.shrestha2072@gmail.com]   🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [GitHub](https://github.com/your-github-profile)
 
 ## 🚀 About Me  
 I am a passionate Networking and Cloud Engineer with a background in Wireless Information Networking and Software Development. My expertise lies in designing, implementing, and managing scalable network solutions to support modern IT infrastructures. Currently, I am focusing on cloud computing, network automation, and cybersecurity.
@@ -24,13 +24,7 @@ I am a passionate Networking and Cloud Engineer with a background in Wireless In
 - Conducted network troubleshooting and maintenance using tools like Wireshark and Packet Tracer.  
 - Collaborated with the IT team to implement network security policies and improve overall system reliability.
 
-### **Crew Member**  
-**McDonald's Canada**  
-*(Jan 2023 – Present)*  
-- Provided excellent customer service in a fast-paced environment while managing inventory and order processing.  
-- Gained experience in team collaboration, multitasking, and adhering to standard operating procedures.
 
----
 
 ## 🛠️ Technical Skills  
 
@@ -58,16 +52,8 @@ I am a passionate Networking and Cloud Engineer with a background in Wireless In
 
 ---
 
-## 🌟 Projects  
 
-### **Dynamic VLAN Assignment for Wireless Devices**  
-- Designed and implemented a dynamic VLAN assignment mechanism using Cisco Packet Tracer, enhancing network scalability and security.
 
-### **AWS VPC Automation with Terraform**  
-- Automated the creation of VPCs with unique CIDR ranges to enforce network and security standards across multiple AWS regions.
-
-### **GSM-Based Crop Protection System**  
-- Developed an IoT-based system to monitor and protect agricultural crops from pests, integrating GSM modules and Arduino.
 
 ---
 
