@@ -45,7 +45,6 @@ I am a passionate Networking and Cloud Engineer with a background in Wireless In
 
 ### **Ontario College Graduate Certificate in Wireless Information Networking**  
 *Loyalist College, Toronto*  
-*Graduated with a GPA of 3.93/4.0*  
 
 ### **Bachelor’s in Electronics and Communication Engineering**  
 *Tribhuvan University, Nepal*  
