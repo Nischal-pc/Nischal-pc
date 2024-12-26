@@ -8,14 +8,7 @@ I am a passionate Networking and Cloud Engineer with a background in Wireless In
 
 ---
 
-## 💼 Professional Experience  
-
-### **IT Technician - Tier 1**  
-**Weins Auto Group, Canada**  
-*(Sep 2024 – Present)*  
-- Provide technical support to end-users, troubleshoot hardware and software issues, and ensure optimal IT infrastructure performance.
-- Collaborate with cross-functional teams to streamline IT operations and enhance system security.
-- Implement and manage network configurations, VPNs, and Active Directory services.
+## 💼 Professional Experience   
 
 ### **Network Support Officer**  
 **A.N. FOUR PVT. LTD., Nepal**  
