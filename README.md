@@ -10,9 +10,9 @@ I am a passionate Networking and Cloud Engineer with a background in Wireless In
 
 ## 💼 Professional Experience   
 
-### **Network Support Officer**  
+### **IT Support Engineer**  
 **A.N. FOUR PVT. LTD., Nepal**  
-*(Dec 2021 – Apr 2022)*  
+*(Mar 2021 – Apr 2022)*  
 - Managed LAN/WAN networks, ensuring uptime and performance for a large user base.  
 - Conducted network troubleshooting and maintenance using tools like Wireshark and Packet Tracer.  
 - Collaborated with the IT team to implement network security policies and improve overall system reliability.
